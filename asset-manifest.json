@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dental-clinic-app/static/css/main.ef8beda8.css",
+    "main.js": "/dental-clinic-app/static/js/main.21af1d23.js",
+    "index.html": "/dental-clinic-app/index.html",
+    "main.ef8beda8.css.map": "/dental-clinic-app/static/css/main.ef8beda8.css.map",
+    "main.21af1d23.js.map": "/dental-clinic-app/static/js/main.21af1d23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef8beda8.css",
+    "static/js/main.21af1d23.js"
+  ]
+}
