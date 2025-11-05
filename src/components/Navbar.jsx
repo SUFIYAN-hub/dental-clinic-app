@@ -7,6 +7,10 @@ function Navbar() {
     <nav>
       <Link to="/">Home</Link>
       <Link to="/about">About</Link>
+      <Link to="/team">Team</Link>
+      <Link to="/gallery">Gallery</Link>
+      <Link to="/testimonials">Testimonials</Link>
+      <Link to="/faq">FAQ</Link>
       <Link to="/services">Services</Link>
       <Link to="/pricing">Pricing</Link>
       <Link to="/appointment">Appointment</Link>
